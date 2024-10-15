@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ds"
+package-mode = false
+version = "0.1.0"
+description = ""
+authors = ["poslam <kirden04@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.1.2"
+scipy = "^1.14.1"
+matplotlib = "^3.9.2"
+pandas = "^2.2.3"
+ipykernel = "^6.29.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
