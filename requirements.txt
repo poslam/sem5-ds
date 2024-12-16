@@ -17,3 +17,5 @@ scikit-learn
 pyLDAvis
 optuna_distributed
 black
+pyod
+statsmodels
