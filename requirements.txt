@@ -19,3 +19,6 @@ optuna_distributed
 black
 pyod
 statsmodels
+shap
+umap
+umap-learn
