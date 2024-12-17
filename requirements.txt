@@ -1,6 +1,5 @@
 gensim
 scipy
-numpy
 pandas
 matplotlib
 ipykernel
