@@ -1,5 +1,5 @@
 .DS_Store
-
+catboost_info/
 serv_pass.txt
 httpstan
 db_data/
