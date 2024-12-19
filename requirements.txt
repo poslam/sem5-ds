@@ -21,3 +21,4 @@ statsmodels
 shap
 umap
 umap-learn
+prophet
