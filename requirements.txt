@@ -22,3 +22,5 @@ shap
 umap
 umap-learn
 prophet
+torch
+torchvision
