@@ -1,6 +1,6 @@
 .DS_Store
 catboost_info/
-serv_pass.txt
+MNIST/
 httpstan
 db_data/
 *.jpg
