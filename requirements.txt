@@ -24,3 +24,5 @@ umap-learn
 prophet
 torch
 torchvision
+pillow
+opencv-python
